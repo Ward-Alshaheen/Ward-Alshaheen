@@ -18,7 +18,7 @@
 <a href="https://twitter.com/ward_alshaheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ward_alshaheen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ward-alshaheen-83837022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ward-alshaheen-83837022b" height="30" width="40" /></a>
 <a href="https://fb.com/wardalshaheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wardalshaheen" height="30" width="40" /></a>
-<a href="https://instagram.com/ward__king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ward__king" height="30" width="40" /></a>
+<a href="https://instagram.com/ward__king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ward__king" height="30" width="40" /></a></br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
