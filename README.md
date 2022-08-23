@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ward alshaheen</h1>
-<h3 align="center">Laravel Developer</h3>
+<h3 align="center">Laravel Developer<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ward-alshaheen&label=Profile%20views&color=0e75b6&style=flat" alt="ward-alshaheen" /> </p>
 
