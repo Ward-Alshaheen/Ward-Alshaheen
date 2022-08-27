@@ -43,6 +43,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ward-alshaheen&show_icons=true&locale=en&layout=compact" alt="ward-alshaheen" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ward-alshaheen&show_icons=true&locale=en" alt="ward-alshaheen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ward-alshaheen&" alt="ward-alshaheen" /></p>
