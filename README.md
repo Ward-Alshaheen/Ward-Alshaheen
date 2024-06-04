@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ward_alshaheen" target="blank"><img src="https://img.shields.io/twitter/follow/ward_alshaheen?logo=twitter&style=for-the-badge" alt="ward_alshaheen" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **Laravel, PHP , Software Engineering**
+- 💬 Ask me about **Laravel, PHP**
 
 - 📫 How to reach me **wardalshaheen1@gmail.com**
 
