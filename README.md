@@ -1,47 +1,54 @@
-<h1 align="center">Hi 👋, I'm ward alshaheen</h1>
-<h3 align="center">Laravel Developer<a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/></a></h3>
+# Hi there, I'm Ward Alshaheen 👋
+### 💼 Software Engineer & Laravel Specialist | Backend Architecture
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ward-alshaheen&label=Profile%20views&color=0e75b6&style=flat" alt="ward-alshaheen" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ward-alshaheen" alt="ward-alshaheen" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ward_alshaheen" target="blank"><img src="https://img.shields.io/twitter/follow/ward_alshaheen?logo=twitter&style=for-the-badge" alt="ward_alshaheen" /></a> </p>
-
-- 🌱 I’m currently learning **Software Engineering**
-
-- 💬 Ask me about **Laravel, PHP**
-
-- 📫 How to reach me **wardalshaheen1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ward_alshaheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ward_alshaheen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ward-alshaheen-83837022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ward-alshaheen-83837022b" height="30" width="40" /></a>
-<a href="https://fb.com/wardalshaheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wardalshaheen" height="30" width="40" /></a>
-<a href="https://instagram.com/ward__king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ward__king" height="30" width="40" /></a><br>
+  <a href="https://ward-alshaheen.github.io/ward_alshaheen/"><img src="https://img.shields.io/badge/Live-Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ward-alshaheen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:wardalshaheen1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+---
 
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a>
+### 👨‍💻 About Me
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+- 🎓 **Software Engineering graduate** from **Damascus University** (2019–2024).
+- 🛠️ **Mid-level Backend Developer** specializing in **Laravel**, **Clean Architecture**, and **High-Performance APIs**.
+- 🏢 Experienced as **Backend Lead** at **HabApps** (Kozee Real Estate) and **Nuhieh** (School LMS).
+- 🔬 Active contributor & Senior Leader at **Reparametrize Research Platform** (AI-driven smart city urban recovery).
+- 🎯 Passionate about **scalable databases**, **AOP**, **design patterns (Repository, Façade)**, and **resilient microservices**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ward-alshaheen&show_icons=true&locale=en&layout=compact" alt="ward-alshaheen" /></p>
+---
 
+### 🛠️ Tech Stack & Specialties
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ward-alshaheen&show_icons=true&locale=en" alt="ward-alshaheen" /></p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend Core** | `PHP 8.2+`, `Laravel 11.x`, `RESTful APIs`, `GraphQL`, `WebSockets` |
+| **Architecture & Patterns** | `Clean Architecture`, `Repository Pattern`, `Façade`, `MVC`, `SOLID`, `AOP` |
+| **Databases & Caching** | `MySQL`, `Relational DB Design`, `Query Optimization`, `Firebase` |
+| **DevOps & Workflow** | `Docker`, `CI/CD Pipelines`, `Git`, `GitHub`, `Postman`, `Jira`, `Agile/Scrum` |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ward-alshaheen&" alt="ward-alshaheen" /></p>
+---
+
+### 🌟 Featured Systems & Projects
+
+- **[Kozee](https://ward-alshaheen.github.io/ward_alshaheen/)** — Real estate discovery ecosystem featuring spatial/map browsing, short-form video reels, and high-efficiency MySQL caching.
+- **[Nuhieh](https://ward-alshaheen.github.io/ward_alshaheen/)** — Hybrid school LMS with multi-tiered RBAC handling schedules, automated grading, and live communications.
+- **Care Me** — Clinic management & telemedicine platform with real-time WebSocket messaging and GraphQL endpoints.
+- **AdVance** — Digital ad exchange featuring an internal digital ledger wallet and transactional integrity.
+- **BriefCode** — Low-code mobile app generation engine leveraging Aspect-Oriented Programming (AOP) and custom compiler mechanics.
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ward-Alshaheen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ward's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ward-Alshaheen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Let's build something scalable together! Feel free to reach out via <a href="mailto:wardalshaheen1@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/ward-alshaheen/">LinkedIn</a>.</sub>
+</p>
